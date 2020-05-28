@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace excel_protocol_helper.Properties
+namespace ExcelProtocolHelper.Properties
 {
 
 
